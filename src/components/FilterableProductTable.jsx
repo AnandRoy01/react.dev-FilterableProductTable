@@ -25,7 +25,7 @@ const FilterableProductTable = ({ products }) => {
 };
 
 FilterableProductTable.propTypes = {
-  products: PropTypes.array(),
+  products: PropTypes.array,
 };
 
 export default FilterableProductTable;
